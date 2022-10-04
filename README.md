@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ismail-Elyaakouby
 - 👀 I’m interested in DevOps, Open Source and Cloud technologies
 - 🌱 I’m currently learning Kubernetes Technologie
-- 💞️ I’m looking to collaborate on developer and partager les connaissance dans les differentes technologie
+- 💞️ I’m looking to collaborate on developer and share my knowledge in different technologies
 - 📫 How to reach me elyaakouby.com
 
 <!---
